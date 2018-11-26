@@ -1,2 +1,0 @@
-# ostree
-Just test
